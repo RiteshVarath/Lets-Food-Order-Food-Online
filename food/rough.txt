@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Let's Food</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
+</head>
+<body>
+    <!-- //Header of foodwebsite  -->
+    <header id="navbar">
+        <nav>
+            <div>
+                <a href="#"><img src="./Assets/Logo/logo.png" alt="Let's Food"></a>
+            </div>
+            <ul class="nav-left">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Menu</a></li>
+                <li><a href="#">How it works</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+            <ul class="nav-right">
+                <li><a href="#"><i class="uil uil-search"></i></a></li>
+                <li><a href="#"><i class="uil uil-shopping-cart-alt"></i></a></li>
+                <li ><a href="#" class="btn"><i style="padding-right: 16px;" class="uil uil-signin "></i></i>Sign In</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hero Section start -->
+
+    <section class="hero-section">
+        <div class="hero-content">
+            <h2>Be The Fastest In Delivery Your <span style="color:#f6b037">Food</span> </h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet</p>
+            <a href="#" class="btn">Get Started</a>
+        </div>
